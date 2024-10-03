@@ -1,0 +1,11 @@
+PatientID,Age,Gender,InitialHealthScore,FinalHealthScore
+1,45,M,84,86
+2,34,F,78,86
+3,29,M,83,80
+4,52,F,81,86
+5,37,M,81,84
+6,41,F,80,86
+7,33,M,79,86
+8,48,F,85,82
+9,26,M,76,83
+10,39,F,83,84
